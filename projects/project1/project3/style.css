@@ -1,0 +1,32 @@
+.title{
+    padding: 45px;
+    text-align: center;
+    margin-top:10px
+    
+}
+.form {
+    display: flex;
+    flex-direction: column;
+    margin-top: 5px;
+    
+}
+.weight{
+ padding: 10px;
+}
+.height{
+    padding: 15px;
+}
+.submit{
+    width: fit-content;
+    align-self:center;
+    margin-top: 40px;
+    padding: 10px;
+    padding-left: 18px;
+    padding-right: 18px;
+}
+#results {
+  font-size: 35px;
+  margin-left: 90px;
+  margin-top: 20px;
+  color: rgb(197, 8, 8);
+}
